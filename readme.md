@@ -29,13 +29,13 @@ WordPress Feedback Plugin allows your visitors to provide quick feedback on your
 Add the feedback form anywhere using the shortcode:
 
 ```
-[feedback_form]
+[wp_feedback]
 ```
 
 ### Shortcode Parameters
 
 ```
-[feedback_form
+[wp_feedback
     title="Was this helpful?"
     comment_placeholder="Tell us why (optional)"
     submit_text="Submit Feedback"
